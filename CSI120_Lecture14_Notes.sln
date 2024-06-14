@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSI120_Lecture14_Notes", "CSI120_Lecture14_Notes.csproj", "{9DA99E84-A91B-425D-8322-1C047FF1E0AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA99E84-A91B-425D-8322-1C047FF1E0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA99E84-A91B-425D-8322-1C047FF1E0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA99E84-A91B-425D-8322-1C047FF1E0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA99E84-A91B-425D-8322-1C047FF1E0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46D5CD7F-5DC0-49B6-9095-687DDDBC8CE8}
+	EndGlobalSection
+EndGlobal
